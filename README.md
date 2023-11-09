@@ -8,7 +8,7 @@
 - :books: I’m currently learning
   
 &nbsp;
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 &nbsp;
 
