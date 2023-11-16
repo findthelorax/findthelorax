@@ -3,7 +3,7 @@
 -->
 
 <!-- Your title -->
-## Hi <img width="10%" height="10%" align="left" alt="Github" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/wave.gif" /> I'm Brett, an aspiring full stack developer. 
+## Hi I'm Brett, an aspiring full stack developer. 
 <!-- - :hammer_and_wrench: I’m currently working on ... -->
 - :books: I’m currently learning
   
