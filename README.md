@@ -3,7 +3,7 @@
 -->
 
 <!-- Your title -->
-## Hi I'm Brett, an aspiring full stack developer. 
+## Hi I'm Brett, a full stack developer. 
 <!-- - :hammer_and_wrench: I’m currently working on ... -->
 - :books: I’m currently learning
   
