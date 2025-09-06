@@ -6,8 +6,8 @@
 
 <!-- About Section -->
  # About me
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=600&lines=Yo-Yoer%2C+Juggler%2C+Fire+Spinner;Mountain+Biker%2C+Rock+Climber%2C+Hang+Glider+Pilot;Mountaineer%2C+Wilderness+EMT%2C+Ski+Patroller)](https://git.io/typing-svg)
  
-<p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
