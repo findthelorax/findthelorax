@@ -2,21 +2,7 @@
 **findthelorax/findthelorax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<!-- Your title -->
-<!-- Intro  -->
-<h3 align="center">
-        <samp>Hi! I'm Brett Ferrante.
-        </samp>
-</h3>
-
-<p align="center"> 
-  <samp>
-    [ I'm a full stack developer from <b>Vermont</b> ]
-    <br>
-    <br>
-  </samp>
-</p>
-
+![Header](./github-header-banner.png)
 
 <!-- About Section -->
  # About me
